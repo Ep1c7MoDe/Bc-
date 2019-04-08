@@ -1,0 +1,3 @@
+prefix = &
+token= NTYzODM5OTU2NzkxOTg0MTM4.XKfOsw.rkdO__JzX4j24-I7YqR5CP5f5kc
+owner= 444950727127728129
